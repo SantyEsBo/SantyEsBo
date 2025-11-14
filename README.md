@@ -1,8 +1,4 @@
 <h1> 🙋 Hi, my name is Santiago </h1>
-  
-<h2> 🌱 Personal Projects: </h2>
-
-  - Working on it...
 
 
 
